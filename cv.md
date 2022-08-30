@@ -1,8 +1,6 @@
 # Nick Nychyporuk
  
  
-qqqqq
- 
 <img src="img/img.jpg" height="240">
 
 > ## contact
