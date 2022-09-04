@@ -1,9 +1,5 @@
 # Nick Nychyporuk
- awdw
- awadawaasawfwfwaf
- 
- ###### awfawf ######
- 
+
 <img src="img/img.jpg" height="240">
 
 > ## contact
