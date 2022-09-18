@@ -1,5 +1,5 @@
 # Nick Nychyporuk
-121412412
+
 <img src="img/img.jpg" height="240">
 
 > ## contact
