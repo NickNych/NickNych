@@ -1,0 +1,10 @@
+@import url(reset.css);
+/* Start work */
+html,
+body{
+height: 100%;
+}
+body{
+	line-height: 1;
+	font-family: Manrope;
+}
